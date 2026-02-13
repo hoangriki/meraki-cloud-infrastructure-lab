@@ -50,6 +50,14 @@ Meraki product families covered:
 
 ---
 
-## 🗂 Repository Structure
-
+##  Repository Structure
+meraki-cloud-infrastructure-lab/
+│
+├── 01-dashboard-basics/
+├── 02-mx-security-sdwan/
+├── 03-ms-switching/
+├── 04-mr-wireless/
+├── 05-systems-manager/
+├── diagrams/
+└── notes/
 
