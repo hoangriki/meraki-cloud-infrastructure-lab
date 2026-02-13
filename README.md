@@ -1,53 +1,55 @@
-Meraki Cloud Infrastructure Lab
+# Meraki Cloud Infrastructure Lab
 
-Hands-on lab documentation and structured study notes from the Cisco Meraki cloud networking course.
-This repository focuses on real-world cloud-managed network deployments using Cisco Meraki MX, MS, MR, and Systems Manager.
+Hands-on lab documentation and structured study notes from a Cisco Meraki cloud networking course.  
+This repository focuses on real-world cloud-managed network deployments using MX security appliances, MS switches, MR access points, and Systems Manager (MDM).
 
-Overview
+---
 
-This project documents my practical implementation and configuration of:
+## Project Overview
 
-Meraki Dashboard administration
+This repository documents my practical implementation and configuration of:
 
-MX Security & SD-WAN appliances
+- Meraki Dashboard administration
+- MX Security & SD-WAN appliances
+- MS Layer 2 switching
+- MR Wireless access points
+- VLAN architecture & segmentation
+- Firewall rules & traffic shaping
+- Site-to-site VPN configuration
+- Client VPN setup
+- Systems Manager (MDM)
 
-MS Layer 2 switching
+The objective of this lab is to strengthen my cloud-managed infrastructure foundation while aligning networking knowledge with modern DevOps and cloud engineering practices.
 
-MR Wireless access points
+---
 
-VLAN architecture & segmentation
+## 🏢 Platform
 
-Firewall rules & traffic shaping
+This lab is based on Cisco Meraki, a cloud-managed networking platform that provides centralized control of network infrastructure through a web-based dashboard.
 
-Site-to-site VPN configuration
+Meraki product families covered:
 
-Systems Manager (MDM)
+- **MX** – Security & SD-WAN
+- **MS** – Switching
+- **MR** – Wireless
+- **SM** – Systems Manager (MDM)
 
-The goal of this repository is to build strong cloud-managed infrastructure fundamentals that align with modern DevOps and cloud engineering practices.
+---
 
-Platform: Cisco Meraki
-<img width="2214" height="1622" alt="image" src="https://github.com/user-attachments/assets/441403a7-aa46-4904-8aab-f69542d22137" /> <img width="629" height="430" alt="image" src="https://github.com/user-attachments/assets/23a580ca-7542-4317-a375-628abe93c1c6" />
+## Skills Developed
+
+- Cloud-managed networking
+- VLAN design and segmentation
+- Firewall rule implementation (Layer 3 / Layer 7)
+- Traffic shaping & QoS
+- SD-WAN fundamentals
+- Wireless SSID configuration
+- Site-to-site VPN deployment
+- Network troubleshooting using centralized dashboard tools
+- Infrastructure documentation best practices
+
+---
+
+## 🗂 Repository Structure
 
 
-
-This lab is based on technologies from Cisco Meraki, a cloud-managed networking platform owned by Cisco Systems.
-
-Meraki provides centralized cloud control for:
-
-Security appliances (MX)
-
-Wireless (MR)
-
-Switching (MS)
-
-Mobile Device Management (SM)
-
-Skills Developed
-
-✔ Cloud-managed networking
-✔ VLAN design and segmentation
-✔ Firewall rule implementation
-✔ SD-WAN concepts
-✔ Wireless SSID configuration
-✔ Network troubleshooting via cloud dashboard
-✔ Infrastructure documentation practices
